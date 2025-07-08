@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite this repository as below."
+title: "Données OCR et segmentation des imprimés du projet SETAF en caractéres gothiques"
+abstract: >-
+  OCR data for the SETAF project, 16th-century French prints in Gothic characters.
+type: dataset
+authors:
+  - family-names: Solfrini
+    given-names: Sonia
+    affiliation: University of Geneva
+    orcid: 0009-0009-7367-048X
+  - family-names: Gabay
+    given-names: Simon
+    affiliation: University of Geneva
+    orcid: 0000-0001-9094-4475
+  - family-names: Gross
+    given-names: Geneviève
+    affiliation: University of Geneva
+    orcid: 0009-0006-5367-4262
+  - family-names: Marques Oliveira
+    given-names: Aurélia
+    affiliation: University of Geneva
+    orcid: 0009-0009-9678-9811
+  - family-names: Solfaroli Camillocci
+    given-names: Daniela
+    affiliation: University of Geneva
+    orcid: 0000-0002-2601-668X
+repository-code: 'https://github.com/SETAFDH/SETAF-autres-gothique'
+url: 'https://github.com/SETAFDH/SETAF-autres-gothique'
+keywords:
+  - HTR
+  - OCR
+  - french
+  - modern
+  - prints
+license: CC-BY-4.0
+version: "1.0"
+date-released: 2026-07-08
