@@ -2,7 +2,7 @@
  
 Ce dépôt est en cours de construction.
 
-Ce dépôt contient les données OCR des ouvrages publiés par Wygand Koeln, maître-imprimeur et libraire à Genève de 1516 à 1545., et par d'autres imprimeurs. Les textes sont des imprimés français du XVIe siècle en caractères gothiques et la liste des textes avec plus de détails se trouve dans le [tableau CSV](https://github.com/SETAFDH/SETAF-autres-gothique/blob/main/Table_CRR_autres_gothique.csv) du dépôt.
+Ce dépôt contient les données OCR des ouvrages publiés par Wygand Koeln, maître-imprimeur et libraire à Genève de 1516 à 1545, et par d'autres imprimeurs. Les textes sont des imprimés français du XVIe siècle en caractères gothiques et la liste des textes avec plus de détails se trouve dans le [tableau CSV](https://github.com/SETAFDH/SETAF-autres-gothique/blob/main/Table_CRR_autres_gothique.csv) du dépôt.
 
 ## Projet SETAF
 
