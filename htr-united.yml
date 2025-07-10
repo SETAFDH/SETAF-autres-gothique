@@ -65,45 +65,45 @@ characters:
   - C
   - q
   - M
-  - '2'
   - ⁊
+  - '2'
   - I
   - D
   - E
   - x
   - L
   - A
-  - '5'
   - '3'
+  - '5'
   - T
   - S
+  - O
   - '4'
   - U
-  - O
   - Q
   - '7'
   - N
   - R
-  - ':'
   - '0'
-  - ¬
-  - '8'
-  - ł
-  - ꝰ
-  - F
+  - ':'
   - '6'
+  - '8'
+  - ¬
+  - ꝰ
+  - ł
+  - F
   - G
-  - '9'
   - ◊
   - H
+  - '9'
   - (
-  - ','
-  - Z
   - B
   - ꝑ
   - '?'
-  - ͬ
+  -  
   - ꝓ
+  - Z
+  - ','
   - ̈
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/SETAF-autres-gothique/blob/main/CITATION.cff
@@ -138,7 +138,7 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-gothique
 volume:
-- count: 11323
+- count: 11328
   metric: characters
 - count: 15
   metric: files
