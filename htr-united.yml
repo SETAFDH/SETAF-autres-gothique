@@ -37,92 +37,74 @@ authors:
 characters:
   members:
   - e
-  - u
-  - a
-  - n
-  - r
-  - i
-  - t
-  - o
-  - l
-  - ſ
-  - .
   - s
+  - u
+  - t
+  - r
+  - a
+  - o
+  - i
+  - n
+  - .
+  - l
   - c
+  - p
   - d
   - m
-  - p
-  - ','
-  - y
+  - /
   - h
-  - f
-  - q
   - b
-  - v
-  - g
-  - z
-  - E
-  - ’
-  - '&'
   - ̃
-  - C
+  - y
+  - z
+  - g
+  - f
   - '1'
-  - ':'
-  - '2'
-  - ́
-  - D
-  - I
-  - S
-  - x
   - P
-  - L
-  - "'"
-  - A
+  - ¶
+  - C
+  - q
   - M
-  - ̀
+  - '2'
+  - ⁊
+  - I
+  - D
+  - E
+  - x
+  - L
+  - A
+  - '5'
+  - '3'
+  - T
+  - S
+  - '4'
+  - U
+  - O
+  - Q
+  - '7'
   - N
   - R
-  - V
-  - T
-  - Q
-  - '3'
-  - ¬
-  - O
-  - '4'
-  - '5'
-  - '?'
-  - '6'
-  - (
-  - '8'
-  - H
-  - )
-  - '7'
+  - ':'
   - '0'
-  - œ
-  - B
-  - '9'
-  - F
-  - Y
-  - ß
-  - G
-  - ̧
-  - ꝑ
-  - ꝗ
-  - j
-  - '-'
-  - ꝓ
-  - Z
-  - ̈
-  - ◊
-  - X
-  - k
-  - ͥ
-  - ꝙ
-  - ̂
+  - ¬
+  - '8'
+  - ł
   - ꝰ
-  - U
+  - F
+  - '6'
+  - G
+  - '9'
+  - ◊
+  - H
+  - (
+  - ','
+  - Z
+  - B
+  - ꝑ
+  - '?'
   - ͬ
-  - ꝫ
+  - ꝓ
+  - ̈
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/SETAF-autres-gothique/blob/main/CITATION.cff
 description: >-
@@ -156,11 +138,11 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-gothique
 volume:
-- count: 299395
+- count: 11323
   metric: characters
-- count: 399
+- count: 15
   metric: files
-- count: 13071
+- count: 589
   metric: lines
-- count: 2908
+- count: 95
   metric: regions
