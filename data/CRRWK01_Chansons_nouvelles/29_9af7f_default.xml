@@ -562,8 +562,8 @@
                     VPOS="816"
                     WIDTH="140"
                     HEIGHT="50">
-            <Shape><Polygon POINTS="200 858 293 866 294 850 293 825 268 824 256 816 255 816 254 816 253 816 154 821 200 850"/></Shape>
-            <String CONTENT="◊.2.◊."
+            <Shape><Polygon POINTS="200 858 293 866 294 850 293 825 268 824 256 816 255 816 254 816 253 816 154 821 154 854"/></Shape>
+            <String CONTENT="◊.Pe.2.a."
                     HPOS="154"
                     VPOS="816"
                     WIDTH="140"
@@ -638,7 +638,7 @@
                     WIDTH="153"
                     HEIGHT="44">
             <Shape><Polygon POINTS="135 1057 135 1067 286 1064 287 1054 285 1027 247 1023 246 1023 219 1028 209 1024 208 1024 207 1024 134 1030 135 1057"/></Shape>
-            <String CONTENT="1.tim̃.6.◊."
+            <String CONTENT="1.tim̃.6.a."
                     HPOS="134"
                     VPOS="1023"
                     WIDTH="153"
